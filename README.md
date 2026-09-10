@@ -6,6 +6,9 @@ I was inspired by the Lab task to add my fun twist of color gradient to it.
 Fractal Type: Sierpinski Recursive Star tree
 Tools Used: math, turtle library and python 3.12
 <img width="1222" height="969" alt="image" src="https://github.com/user-attachments/assets/d7bb5352-2fcb-4fa6-9d7e-3bd180008318" />
+A t-Shirt I generated with this:
+<img width="1207" height="978" alt="image" src="https://github.com/user-attachments/assets/dec112ec-d3e3-4c07-8287-c1e7893bec1f" />
+
 
 
 Created By: Noor Fatima 559891
